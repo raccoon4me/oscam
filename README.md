@@ -1,0 +1,2 @@
+# oscam
+config files oscam
